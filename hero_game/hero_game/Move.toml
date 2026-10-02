@@ -1,0 +1,6 @@
+[package]
+name = "hero_game"
+edition = "2024"
+
+[addresses]
+hero_game = "0x0"
